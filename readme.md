@@ -12,7 +12,6 @@ A comprehensive, open-source guide to .NET interview questions and answers, cove
 - [Intermediate Questions (8-14)](#-intermediate-questions)
 - [Advanced Questions (15-25)](#-advanced-questions)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
